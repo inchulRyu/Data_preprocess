@@ -1,0 +1,11 @@
+/local_hdd/works/ICRyu_workspace/for_yolo/images/000002.png
+/local_hdd/works/ICRyu_workspace/for_yolo/images/000006.png
+/local_hdd/works/ICRyu_workspace/for_yolo/images/000009.png
+/local_hdd/works/ICRyu_workspace/for_yolo/images/000003.png
+/local_hdd/works/ICRyu_workspace/for_yolo/images/000001.png
+/local_hdd/works/ICRyu_workspace/for_yolo/images/000005.png
+/local_hdd/works/ICRyu_workspace/for_yolo/images/000008.png
+/local_hdd/works/ICRyu_workspace/for_yolo/images/000010.png
+/local_hdd/works/ICRyu_workspace/for_yolo/images/000007.png
+/local_hdd/works/ICRyu_workspace/for_yolo/images/000000.png
+/local_hdd/works/ICRyu_workspace/for_yolo/images/000004.png
